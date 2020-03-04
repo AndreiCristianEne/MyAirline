@@ -1,4 +1,4 @@
-#We Fly ID project
+#MyAirline project
 
 #configuration
 1. Go into /database and run the aapdb.sql to insert tables, etc.
@@ -16,4 +16,4 @@
 1. Go into /styles/base.sass and edit the css
 
 ###server
-1. Go into /server/api and edit the API routes (_DON'T, THEY WORK JUST FINE_)
+1. Go into /server/api and edit the API routes (they work as it is)
